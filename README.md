@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Thomas la Cour Jansen.
 - 👀 I’m interested in Photosynthesis, Protein Structure, Ultrafast Dynamics...
+- 🔭 I’m currently working on [NISE](https://github.com/GHlacour/NISE_2017)
+- 🤝 I’m supported by the team at [lacourjansenlab](https://github.com/lacourjansenlab)
 - 🎓 I’m working at University of Groningen.
 - 📫 How to reach me **t.l.c.jansen@rug.nl**
 
